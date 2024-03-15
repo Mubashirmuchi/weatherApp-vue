@@ -1,29 +1,14 @@
-# vue-project
+# Vue Project
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains the source code for a Vue.js project 
 
-## Recommended IDE Setup
+## Installation
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+To get started, follow these steps:
 
-## Customize configuration
+1. Clone this repository to your local machine:
+2. Navigate to the project directory:
+3. Install dependencies:
+4.To launch the development server, type npm run dev
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
